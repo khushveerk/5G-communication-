@@ -94,7 +94,34 @@ ITU -D -- Development
 ## •User Plane Protocol Stack:
    •support carrying the data between       different applications in UE.
 
-## •   
+## •Control Plane Protocol Stack:
+   • carrying control information          between UE and gNodeB or protocol.
 
-   
+
+# User Plane Protocol Stack:  layers:-
+
+## 1.PHY (Physical Layer):
+
+•Responsible for efficient wireless     communication.
+
+(there is a need of feedback to know if transmission is error free or not , so MAC comes in role )
+
+## 2.MAC (Medium Access Control):
+
+ •used in re-transmission,              multiplexing, de-multiplexing.
+
+ (not all errors can be detected by MAC. so RLC is used )
+
+## 3.RLT (Radio link Control):
+ •implements ARQ for error correction. 
+ •handles segmentation, breaking up      data packets into smaller segments.
+
+## 4.PDCP (Packet data convergence         protocol)
+  •IP header stores information that      is not necessary so headed is          compressed, remove duplicates,         integrate protection. 
+
+## 5.SDAP (Service Data Adaptation Protocol):
+
+ •Matches the appropriate QoS bearer     to the correct radio bearer.
+  For example, a voice call packet is    treated differently from a streaming   packet.  
+
    
