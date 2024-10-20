@@ -88,7 +88,10 @@ ITU -D -- Development
    these are low power base stations      used in LTE advanced versions and     5G technology to power devices in      small area like few 100 meters to 2    km
 
 2. ## MIMO:-
-   Multiple input multiple output
+
+![Screenshot_2024_1020_223538](https://github.com/user-attachments/assets/e68eae66-8483-466b-bfc9-6b3aa968e6e2)
+   
+    Multiple input multiple output
 
    •involves using multiple antennas at
     both transmeter and receiver .It       allows for receiving and sending       more data at same time, improving      the speed.
