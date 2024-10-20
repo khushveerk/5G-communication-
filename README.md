@@ -204,6 +204,8 @@ The MAC layer is also responsible for distributing the data into different carri
 
 The function of a scheduler is to allocate when and how much data is to be allocated to different users sharing the same data channel.
 
+![Screenshot_2024_1020_224013](https://github.com/user-attachments/assets/a931265d-8e02-4612-913f-a9bb05b54ebf)
+
 ## Downlink Scheduling
 
 The scheduler also decides what amount of bandwidth is to be used by the device as per the service it is providing. This is known as *reciever-bandwidth adaptation.*
