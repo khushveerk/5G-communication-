@@ -218,5 +218,10 @@ Therefore NR uses -> downlink : OFDM
 • symbol is spread across a wider 
   frequency for shorter time.
 
-  
+# Multiple Access Scheme  :-
+
+- it is a technique that let's multiple mobile users share the allocated spectrum in the most effect of manner.
+
+ https://private-user-images.githubusercontent.com/179844605/377929300-f64cd153-5a3e-4b0b-a9e1-114a9058034c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjk0NDExOTAsIm5iZiI6MTcyOTQ0MDg5MCwicGF0aCI6Ii8xNzk4NDQ2MDUvMzc3OTI5MzAwLWY2NGNkMTUzLTVhM2UtNGIwYi1hOWUxLTExNGE5MDU4MDM0Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMDIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTAyMFQxNjE0NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NDg3YWFmZmZhOTIxMzdhN2E3YmJjMTI0ZTQ1ZTY1NGRmNDQ1MmU0NTVkOTE1ZWRhNmQ4YzQzMTMzMGYyMTg2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5pizFaD8q9Whg2fe37dyjHYYyPX9qzKl8OM_Floy9Gs
+
   
