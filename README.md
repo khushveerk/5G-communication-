@@ -280,6 +280,8 @@ MCC : which country subsciber belongs to MNC : defines exact operator in the cou
  
  Concealed version of SUPI, even if someone "listens" to the signal they will not be able to decrypt it since it is encrypted.
 
+![Screenshot_2024_1020_224226](https://github.com/user-attachments/assets/8ddf6999-7137-434e-8b19-0cf26c8cb870)
+
 #  Service Discovery (NRF)
 
 ## 1. What is NRF?
