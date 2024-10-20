@@ -18,7 +18,7 @@ ITU -D -- Development
 
 1. Enhanced Mobile Broadband (eMBB)
 
-   •provides high speed internet access     and low latency
+   •provides high speed internet           access and low latency
 
  2.Massive Machine-Type Communications     (mMTC)
   
@@ -30,6 +30,8 @@ ITU -D -- Development
   
    •provides low latency and highly         reliable communication 
    •example- for factory automation,        AR/VR , Remote surgery.etc 
+
+![Screenshot_2024_1020_221601](https://github.com/user-attachments/assets/4107ea1d-4c99-43d7-8e87-02c5a4e74ec1)
 
 ## 4G LTE :- 
    a wireless technology that              provides high speed data.
