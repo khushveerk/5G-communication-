@@ -146,6 +146,8 @@ PDU (Protocol Data Unit): Processed data with added headers, passed to the next 
   •it includes authentication,           security, idle mode procedures.
   •also responsible for assigning an     IP address to the device.
 
+![Screenshot_2024_1020_222043](https://github.com/user-attachments/assets/173ef76f-182a-41b9-abfe-7493b17f5e0e)
+
 ## RRC ( Radio resource control)  
 
   •responsible for setting radio          bearers, system information. 
