@@ -16,25 +16,25 @@ ITU -D -- Development
 1. Enhanced Mobile Broadband (eMBB)
 
    •provides high speed internet access     and low latency
-   
-2.Massive Machine-Type Communications     (mMTC)
+
+ 2.Massive Machine-Type Communications     (mMTC)
   
    •sports high density of online           devices
    •design to connect large number of       devices and IoT applications.
 
-3.Ultra-Reliable Low-Latency              Communication (URLLC)
-  [key feature of 5G]  
+ 3.Ultra-Reliable Low-Latency              Communication (URLLC)
+   [key feature of 5G]  
   
    •provides low latency and highly         reliable communication 
    •example- for factory automation,        AR/VR , Remote surgery.etc 
 
 ##4G LTE :- a wireless technology that              provides high speed data.
    
-   • LTE-- Long Term Evolution 
+  • LTE-- Long Term Evolution 
    (offers fastest mobile internet          experience) 
 
    
  ## 5G Network Components:- 
 
-1.##UE --
+1. ##UE --
    
