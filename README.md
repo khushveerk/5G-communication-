@@ -314,4 +314,25 @@ Sets up, maintains, and ends connections.
  
  •Makes sure that a user's session stays active without interruptions.
 Important for maintaining quality during calls or data sessions.
- 
+
+ # PCF (Policy Control Function)
+
+Central component for managing network policies.
+
+•Controls resource allocation and service quality based on user needs.
+
+# Session Management Policies
+
+•Handles Sessions: Manages the establishment and termination of sessions.
+
+•Quality of Service: Defines how resources are allocated for data and voice sessions.
+
+•Handover Management: Ensures smooth transitions between cells during user movement.
+
+# Non-Session Management Policies
+
+•Network Resource Management: Governs resource allocation without active sessions.
+
+•Access Control: Manages user permissions and service access.
+
+•Traffic Management: Controls data flow and prioritization without maintaining session state.
