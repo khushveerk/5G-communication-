@@ -93,6 +93,8 @@ ITU -D -- Development
    •involves using multiple antennas at
     both transmeter and receiver .It       allows for receiving and sending       more data at same time, improving      the speed.
 
+![Screenshot_2024_1020_223316](https://github.com/user-attachments/assets/16d6a0e2-3a47-4a64-ae1c-af7a44a3a407)
+
 4. ## Beamforming :-
     •it is a technique that direct          radio signal in specific               direction instead of broadcasting      them in all directions
    *simply*
