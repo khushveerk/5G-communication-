@@ -42,16 +42,16 @@ ITU -D -- Development
    
  # 5G Network Components:- 
  
- ## 1.UE --User Equipment                  •it means mobile device like tablet     laptop smartphone other wireless        devices that is used to access the      network
+ ## 1.UE --User Equipment                  •it means mobile device like           tablet laptop smartphone other         wireless  devices that is used to      access the network
      
 ## 2.AMF --Access and Mobility Management Function 
    •manage user connections 
-   •handles tasks like user                authentication mobility sport           helping devices switch between          different network areas smoothly.
+   •handles tasks like user               authentication mobility sport          helping devices switch between          different network areas smoothly.
 
 ## 3.UPF --User Plane Function 
    •responsible for handling the data       traffic that flows between users        and the internet
    •managers how data is transmitted 
-   •acts as a bridge between user           devices and the data services they      access.
+   •acts as a bridge between user          devices and the data services they      access.
 
 ## 4.SMF --Session Management Function
    •responsible for setting up,             managing and terminating data           sessions for users.
@@ -64,6 +64,8 @@ ITU -D -- Development
 
 ## 7.RAN --Radio Access Network   
    •connects user devices to the core      network using radio signals and        enables faster data speed and low       latency.
+
+![Screenshot_2024_1020_221736](https://github.com/user-attachments/assets/1f35296a-e6d4-415e-b739-061a42b2386b)
 
 # Difference between 4G and 5G :-
 
