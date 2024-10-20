@@ -124,4 +124,63 @@ ITU -D -- Development
  •Matches the appropriate QoS bearer     to the correct radio bearer.
   For example, a voice call packet is    treated differently from a streaming   packet.  
 
-   
+# Packet Flow Through 5G Protocol Layers:- sdu/pdu
+
+## SDU and PDU:
+
+SDU (Service Data Unit): Data received from the layer above.
+PDU (Protocol Data Unit): Processed data with added headers, passed to the next layer.
+
+
+# Control Plane Layer :-
+
+## NAS ( Non access stratum)
+  
+  •it includes authentication,           security, idle mode procedures.
+  •also responsible for assigning an     IP address to the device.
+
+## RRC ( Radio resource control)  
+
+  •responsible for setting radio          bearers, system information. 
+
+
+# Diverse Traffic Types
+
+ There are different types of QoS       flows:-
+
+## Guaranteed Bit Rate(GBR) -->
+for critical functions or voice calls. 
+
+## Non-Guaranteed Bit Rate(NGBR) -->  
+for streaming or normal broadband connection where steady connection is not required.
+
+*Multiplexing*  occurs at two points in the 5G ran system. The sdap converts IP packets to QoS flows at the core network as per requirement and The upf converts IP flow to QoS flows at the core network. The SDAP maps each flow into radio bearers. The following example helps in understanding this.
+
+ ## PDCP
+The PDCP does 4 tasks, Firstly it compresses the headers which are 40 bytes in IPv4 and 60 in IPv6 which is almost as large as some smaller data packets, it follows the ROHC(Robust Header Compression).
+
+## Ciphering and Integrity protection: 
+Encrypts data and ensures data integrity for secure communication.
+
+# MAC(Medium Access Control)
+ 
+  •provide services to RLC in the form   of logical channels and uses           services from PHY layer in the form    of transport channels.
+
+The MAC layer is also responsible for distributing the data into different carriers through multiplexing.
+
+ Since transport blocks can get quite   large we divide it into CBGs (core     block groups), so that if any error    occurs only the CBG needs to be        retransmitted instead of whole         transport block.
+ 
+## Scheduler:-
+
+The function of a scheduler is to allocate when and how much data is to be allocated to different users sharing the same data channel.
+
+## Downlink Scheduling
+
+The scheduler also decides what amount of bandwidth is to be used by the device as per the service it is providing. This is known as *reciever-bandwidth adaptation.*
+
+*Preemption*:- refers to the ability of the network to interrupt or replace lower priority task or users to allocate resources for higher priority tasks.
+
+# Physical Layer:- 
+  •mainly mapping transport channels     to the physical channels
+
+
