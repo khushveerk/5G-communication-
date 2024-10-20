@@ -165,11 +165,16 @@ for streaming or normal broadband connection where steady connection is not requ
 
 *Multiplexing*  occurs at two points in the 5G ran system. The sdap converts IP packets to QoS flows at the core network as per requirement and The upf converts IP flow to QoS flows at the core network. The SDAP maps each flow into radio bearers. The following example helps in understanding this.
 
+
+
+
  ## PDCP
 The PDCP does 4 tasks, Firstly it compresses the headers which are 40 bytes in IPv4 and 60 in IPv6 which is almost as large as some smaller data packets, it follows the ROHC(Robust Header Compression).
 
 ## Ciphering and Integrity protection: 
 Encrypts data and ensures data integrity for secure communication.
+
+![Screenshot_2024_1020_222143](https://github.com/user-attachments/assets/01fffcff-3d46-4ffb-8b04-6b49eb214894)
 
 # MAC(Medium Access Control)
  
