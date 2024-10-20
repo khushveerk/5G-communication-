@@ -199,5 +199,24 @@ The scheduler also decides what amount of bandwidth is to be used by the device 
    •for scheduling decisions
    
    
+# Modulation Scheme :- OFDM 
+ •CAN WE USE TO TRANSMIT A WHITE BAND    SIGNAL USING MULTIPLE NARROW BAND      SIGNALS
 
+## Disadvantages :- 
+it tends to have very high peak power to average power ratio. 
 
+Therefore NR uses -> downlink : OFDM
+                     uplink : OFDM 
+
+## OFDM
+• each of career carrying complex        symbol for long duration. 
+• symbol is spread across a short  
+  frequency for long time.
+
+## SC- FDM 
+• each of career carrying complex        symbol for small duration. 
+• symbol is spread across a wider 
+  frequency for shorter time.
+
+  
+  
