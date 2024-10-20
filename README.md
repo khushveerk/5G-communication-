@@ -336,3 +336,33 @@ Central component for managing network policies.
 •Access Control: Manages user permissions and service access.
 
 •Traffic Management: Controls data flow and prioritization without maintaining session state.
+
+# Registration
+
+When a device has either moved to a new cell or is connecting to the network for the first time or some other situation, it needs to go through the registration procedure
+
+
+## For a simple registration the process is as follows:
+
+1.The UE sends the request to nearby RAN which assigns an AMF to the device in one of two ways, either it takes the GUTI(Device Identifier) from the device and assigns it the corresponding AMF it was connected to or it accesses the NSSAI(network slice selection assistance information) to know what AMF supports the network slice and thus foward the request.
+
+2.Context Transfer: Due to device mobility, AMF needs to be switched to a nearby one, in this case new AMF contacts old AMF for UE context transfer.
+
+3.Authentication and Security
+
+4.Context Transfer Completion: New AMF confirms with old AMF that context has been successfully transferred.
+
+5.NewAMF to UDM: New AMF registers with UDM for relevant device and subscription information as well as subscribes to UDM for further subscription updates. Old AMF deregisters with UDM and unsubscribes.
+
+6.Policy Information: New AMF contacts PCF for relevant policy information about the UE.
+
+7.PDU Session Continued/Started: PDU session can be continued or stopped(in case of error) with contact with SMF
+
+8.Registration Complete:Registration completed message is sent by RAN to UE
+
+9.Policy Updation: Any new or updated policies can be fetched from PCF
+
+
+# Deregistration
+
+When devices no longer needs to access 5G services or network kicks the device out it deregisters.
