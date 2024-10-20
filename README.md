@@ -120,6 +120,9 @@ ITU -D -- Development
 
 # User Plane Protocol Stack:  layers:-
 
+![Screenshot_2024_1020_223845](https://github.com/user-attachments/assets/ef42eafc-efac-4091-a016-cbe852711080)
+
+
 ## 1.PHY (Physical Layer):
 
 •Responsible for efficient wireless     communication.
