@@ -103,6 +103,9 @@ ITU -D -- Development
    *simply*
    it focusee the signal towards a        particular user or device,             improving the quality and strength     of connection.
 
+
+![Screenshot_2024_1020_223755](https://github.com/user-attachments/assets/d287562c-f04a-49a8-899a-c62a0ff2792d)
+
 5. ## Full Duplex Mode of Transmission:-
     • In this, high speed switches are      used to control data transfer in       each direction by efficiently          switching one at a time and fully      utilising the existing spectrum       .The same frequency band can be         used for transmission and              receiving mode of operation .
 
