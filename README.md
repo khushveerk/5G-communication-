@@ -6,6 +6,9 @@
 # ITU (International Telecommunication Union) 
 It is a specialized agency of the United Nations responsible for coordinating global telecommunication standards, regulations, and spectrum allocation. It ensures that communication systems worldwide, including telecommunications, radio, and satellite, operate seamlessly and without interference.ITU-R manages radio telecommunication, ITU-T sets technical standards for global telecommunications.
 
+
+![Screenshot_2024_1020_222847](https://github.com/user-attachments/assets/bb23778f-9dce-4229-991b-71b197e8ae19)
+
 ITU - R -- Radio communication 
 ITU -T -- Standardization 
 ITU -D -- Development 
