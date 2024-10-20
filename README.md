@@ -183,4 +183,21 @@ The scheduler also decides what amount of bandwidth is to be used by the device 
 # Physical Layer:- 
   •mainly mapping transport channels     to the physical channels
 
+## 1. PBCH (physical broadcast              channel)
+   •carries path of the system             information that to access the         network 
+
+ ## 2. PDSCH (Physical Downlink Shared       Channel)  
+   •for data transmission to the           devices 
+
+## 3. PDCCH (Physical Downlink Control       Channel)   
+   •control information like               scheduling decisions 
+
+## 4. PUSCH (Physical Uplink Shared          Channel)  
+   •main channel for data transfer 
+
+## 5. PDCCH (Physical Uplink Control         Channel)      
+   •for scheduling decisions
+   
+   
+
 
