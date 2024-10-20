@@ -44,6 +44,8 @@ ITU -D -- Development
 
    
  # 5G Network Components:- 
+
+![Screenshot_2024_1020_223005](https://github.com/user-attachments/assets/82430eec-74b7-4fa2-bedd-541570980642)
  
  ## 1.UE --User Equipment                  •it means mobile device like           tablet laptop smartphone other         wireless  devices that is used to      access the network
      
