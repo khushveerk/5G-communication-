@@ -234,3 +234,84 @@ Therefore NR uses -> downlink : OFDM
 Identifiers are used to uniquely recognize any device or subscription to identify its characteristics such as if device is blacklisted or not or any subscription service is allowed or not.
 
 ## Types of Identifiers  :-     
+
+ 
+## 2. Subscription Identifiers
+
+## 2.1 SUPI:
+
+MCC : which country subsciber belongs to MNC : defines exact operator in the country MSIN : defines the actual subsciber within operator within the country
+
+## 2.2 SUCI: 
+ 
+ Concealed version of SUPI, even if someone "listens" to the signal they will not be able to decrypt it since it is encrypted.
+
+#  Service Discovery (NRF)
+
+## 1. What is NRF?
+
+NRF (Network Repository Function) is a key component in 5G Service-Based Architecture (SBA).
+
+•It enables service discovery, allowing network functions to register and find each other.
+
+## 2. Main Functions:
+
+Registration: Network functions register their services with NRF.
+Discovery: NRF provides endpoints of available services to other network functions.
+
+
+## Load Balancing:
+
+Helps optimize traffic by directing requests to suitable instances.
+
+## 3. RESTful Interface:
+
+Uses HTTP REST APIs for communication between network functions and NRF.
+
+# Registration Management
+
+## 1. What is Registration Management?
+
+It's a process in 5G networks for managing user devices' access to the network.
+
+• Ensures authentication and updates     user information like location.
+
+## 2. Key Functions:
+
+ ##• Registration: Devices (UEs)           register with the network via the      Access and Mobility Management nn      Function (AMF).
+
+ ##• Location Updates: Tracks user          location for efficient resource        allocation.
+
+ ##• Session Management: Enables            network services based on the          user’s subscription and current        location.
+
+# Connection Management
+
+Deals with how a device gets and keeps a connection with the core network.
+Sets up, maintains, and ends connections.
+
+## Key Parts:
+
+ ##•Session Setup: Starts                  communication between device and       network.
+
+ ##•Session End: Stops the connection.
+
+ ##•Mobility: Keeps the connection     
+    while the device moves.
+
+## RAN Connection Management
+
+•Manages the connection between the device and the Radio Access Network (RAN).
+
+•Makes sure the radio link is stable.
+
+## Mobility Management
+
+•Manages how a device moves around in the network.
+
+•Keeps the connection active as users change locations.
+
+## Session Continuity
+ 
+ •Makes sure that a user's session stays active without interruptions.
+Important for maintaining quality during calls or data sessions.
+ 
