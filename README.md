@@ -284,6 +284,8 @@ MCC : which country subsciber belongs to MNC : defines exact operator in the cou
 
 #  Service Discovery (NRF)
 
+![Screenshot_2024_1020_224338](https://github.com/user-attachments/assets/4cc8da85-271b-483c-83bb-418d19578868)
+
 ## 1. What is NRF?
 
 NRF (Network Repository Function) is a key component in 5G Service-Based Architecture (SBA).
