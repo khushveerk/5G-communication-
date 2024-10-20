@@ -274,6 +274,8 @@ Identifiers are used to uniquely recognize any device or subscription to identif
 
 MCC : which country subsciber belongs to MNC : defines exact operator in the country MSIN : defines the actual subsciber within operator within the country
 
+![Screenshot_2024_1020_224150](https://github.com/user-attachments/assets/ede1ea6c-f64e-4264-92dc-d8f0002cbdb0)
+
 ## 2.2 SUCI: 
  
  Concealed version of SUPI, even if someone "listens" to the signal they will not be able to decrypt it since it is encrypted.
