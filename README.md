@@ -1,5 +1,9 @@
 # 5G-communication-
 
+
+![Screenshot_2024_1020_230813](https://github.com/user-attachments/assets/1421643d-ec04-4857-affe-828bde1f5449)
+
+
 ![Screenshot_2024_1020_221153](https://github.com/user-attachments/assets/16e30bd4-88ca-43c3-93c6-4ac7cd5cb257)
 
 
