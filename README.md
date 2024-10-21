@@ -366,6 +366,11 @@ Sets up, maintains, and ends connections.
  •Makes sure that a user's session stays active without interruptions.
 Important for maintaining quality during calls or data sessions.
 
+## UDM and UDF
+
+![Screenshot_2024_1021_071818](https://github.com/user-attachments/assets/d451f46d-01dc-47c3-929d-b006da2f1afa)
+
+
  # PCF (Policy Control Function)
 
 Central component for managing network policies.
