@@ -51,7 +51,8 @@ ITU -D -- Development
 
 ![Screenshot_2024_1020_223005](https://github.com/user-attachments/assets/82430eec-74b7-4fa2-bedd-541570980642)
  
- ## 1.UE --User Equipment                  •it means mobile device like           tablet laptop smartphone other         wireless  devices that is used to      access the network
+ ## 1.UE --User Equipment                
+   •it means mobile device like           tablet laptop smartphone other         wireless  devices that is used to      access the network
      
 ## 2.AMF --Access and Mobility Management Function 
    •manage user connections 
@@ -176,6 +177,8 @@ PDU (Protocol Data Unit): Processed data with added headers, passed to the next 
 # Diverse Traffic Types
 
  There are different types of QoS       flows:-
+
+![Screenshot_2024_1021_071033](https://github.com/user-attachments/assets/0b828114-cd37-4f45-bd89-b09d2eaaa50d)
 
 ## Guaranteed Bit Rate(GBR) -->
 for critical functions or voice calls. 
