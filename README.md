@@ -274,7 +274,13 @@ Identifiers are used to uniquely recognize any device or subscription to identif
 
 ## Types of Identifiers  :-     
 
- 
+
+## 1. Device Identifiers:
+
+## 1.1 PEI - Permanent Equipment             Identifier
+
+ ![Screenshot_2024_1021_071510](https://github.com/user-attachments/assets/d149a2fc-92e8-4a95-a4ef-5e6bae2c5bd0)
+
 ## 2. Subscription Identifiers
 
 ## 2.1 SUPI:
