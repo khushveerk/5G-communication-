@@ -422,3 +422,65 @@ When a device has either moved to a new cell or is connecting to the network for
 # Deregistration
 
 When devices no longer needs to access 5G services or network kicks the device out it deregisters.
+
+
+
+
+
+
+### 5G course 2 ###
+
+# standarization of 5G :-
+
+
+## ITU-R --International Telecommunication Union Radiocommunication 
+
+•Responsible to develp 5G requirements.
+
+## latency -- 
+
+ the delay between sending and receiving information. 
+
+## mobility --  
+
+Mobility in 5G refers to the ability of a user to remain connected to a network while moving around.
+
+## Usage scenarioes :-
+
+1> Enhanced Mobile Broadband (eMBB) :- Enhanced Mobile Broadband (eMBB) is a 5G service that offers higher data rates, lower latency, and better bandwidth to improve user experience.
+
+2> Massive Machine Type Communication (mMTC) :- Massive Machine-Type Communications (mMTC) is a 5G service category that allows for a large number of devices to connect online. It's designed to support the Internet of Things (IoT) by enabling high-speed, low-latency, and cost-effective communication for many devices with limited data rates.
+
+3> Ultra Reliable And Low Latency Communication :-  it is a set of specifications for 5G mobile networks that enables low latency and high reliability for mission-critical applications.
+
+**5G Architecture** :- 
+
+***Three main components ***
+
+ - UE (User equipment)
+
+ - NG-RAN (Next Generation Radio          Access Network)
+
+ - 5GC (5G Core Network)
+
+
+## 5G Non Standalone (NSA)
+  - Master is eNB . It decides what       type of data is received by the        mobile.
+
+## 5G Standalone (SA)
+  -Master is gNB . It decides what        type of data is received by the        mobile.
+
+
+![Screenshot_2024_1030_101530](https://github.com/user-attachments/assets/c07e1d76-9ca1-401a-8ca0-1c5c9723631e)
+
+
+-- 4G ran acts as master in NSA, UE       recieves control signalling and        data from master but only data from    secondary
+
+## OFMD :-
+
+-->OFDM works between the UE and the gnodeb.
+ 
+•In OFDM when a signal is at its all time high the other carriers are at 0 because the carriers are placed in such way that they cancel each other out (when overlapped). this is due to some trigo. ofdm is used to transfer many different users' data at once in the same signal and interference is reduced due to this sin cos area(integration) cancellation.
+  
+--  As frequency of signal increases, there may be interference from other signals, to fix this we have scalable carrier spacing which means the spacing between peaks of any two signals(see below picture) to avoid interference, in LTE this was 15 KHz.
+signal peaks
