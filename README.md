@@ -428,7 +428,9 @@ When devices no longer needs to access 5G services or network kicks the device o
 
 
 
-### 5G course 2 ###
+# 5G course 2 #
+
+
 
 # standarization of 5G :-
 
