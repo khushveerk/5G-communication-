@@ -28,5 +28,15 @@ Three main components
  - 5GC (5G Core Network)
 
 
+##5G Non Standalone (NSA)
+  - Master is eNB . It decides what type of data is received by the mobile.
+
+####5G Standalone (SA)
+  -Master is gNB . It decides what type of data is received by the mobile.
+
+
+4G ran acts as master in NSA, UE recieves control signalling and data from master but only data from secondary
+
+
 
 
