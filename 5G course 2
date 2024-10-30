@@ -34,6 +34,10 @@ Three main components
 ####5G Standalone (SA)
   -Master is gNB . It decides what type of data is received by the mobile.
 
+![5g NSA](https://github.com/user-attachments/assets/b32c2ebe-98bf-4650-b668-7293fcacccac)
+
+
+
 
 4G ran acts as master in NSA, UE recieves control signalling and data from master but only data from secondary
 
