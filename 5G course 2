@@ -35,7 +35,7 @@ Three main components
   -Master is gNB . It decides what type of data is received by the mobile.
 
 
-
+![Screenshot_2024_1030_101530](https://github.com/user-attachments/assets/c07e1d76-9ca1-401a-8ca0-1c5c9723631e)
 
 
 4G ran acts as master in NSA, UE recieves control signalling and data from master but only data from secondary
