@@ -29,6 +29,7 @@ OFMD :-
 12 Subcarriers = 1 Resource Block 
 
 
+![frames](https://github.com/user-attachments/assets/9bcdc580-306a-4eea-85f1-f2f9f454ef07)
 
 ***more resource block given to a cell --- more is the data rate.*** 
 
