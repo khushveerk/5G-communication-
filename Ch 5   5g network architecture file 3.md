@@ -22,9 +22,14 @@ flowing through it.
 
 ![pdu+qos](https://github.com/user-attachments/assets/5b84b55d-c1fc-4d67-baa0-ef2264550bf5)
 
-**Control Plane Separation**
 
-Data flows only through the user plane.  
+## the whole ___ is divided into two planes .
+1. user plane
+2. control plane
+
+ this is called **Control Plane Separation**
+
+• Data flows only through the user plane.  
 
 ![userplanecontrolplaneseparation](https://github.com/user-attachments/assets/d35a3470-1507-4340-99ad-17e2c5a319d1)
 
