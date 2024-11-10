@@ -34,3 +34,9 @@ flowing through it.
 ![userplanecontrolplaneseparation](https://github.com/user-attachments/assets/d35a3470-1507-4340-99ad-17e2c5a319d1)
 
 The advantage of separating these planes is that we can easily scale up or down according to user and control plane requirements. Thus saving resources and money.
+
+
+## what is QoS ? 
+quality of service i.e. data rate ,latency ,priority. 
+
+• each QoS flow has an ID . 
