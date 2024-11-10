@@ -2,6 +2,8 @@
 
 involves using multiple antennas at both transmeter and receiver .It allows for receiving and sending more data at same time, improving the speed.
 
+![mimoandbeamforming](https://github.com/user-attachments/assets/675a75af-249c-4b48-87ca-72029f99aaae)
+
 
 ### TYPES :- 
 1. Single user MIMO --- 1 sender and 1 receiver
