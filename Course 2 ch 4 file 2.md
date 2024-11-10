@@ -10,12 +10,16 @@ involves using multiple antennas at both transmeter and receiver .It allows for 
 
 2. multi user MIMO ---- 1 sender and many receivers.
 
+• MIMO is best for wireless communication.--- below 6GHz  because more scattering 
+                          
 
 ## Beamforming :-
 
 •it is a technique that direct radio signal in specific direction instead of broadcasting them in all directions simply it focusee the signal towards a particular user or device, improving the quality and strength of connection.
 
 ![MIMO+beamforming](https://github.com/user-attachments/assets/139d87bc-3ba1-4bf2-adc9-ad39d7032290)
+
+for beamforming --- above 6GHz because less scattering less multiple paths 
 
 ## How 3D Beamforming Works
 
