@@ -21,3 +21,5 @@ involves using multiple antennas at both transmeter and receiver .It allows for 
 
 By changin Amplitude and Phase of RF signal in transmitter we can send the beam into any direction in the 3D plane
 
+
+![3dbeamforming](https://github.com/user-attachments/assets/262e6c58-65db-4509-83e0-d0dbb45d84e7)
