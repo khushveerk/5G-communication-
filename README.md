@@ -519,3 +519,7 @@ Mobility in 5G refers to the ability of a user to remain connected to a network 
   
 --  As frequency of signal increases, there may be interference from other signals, to fix this we have scalable carrier spacing which means the spacing between peaks of any two signals(see below picture) to avoid interference, in LTE this was 15 KHz.
 signal peaks
+
+
+
+
