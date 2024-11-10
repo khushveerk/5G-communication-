@@ -23,7 +23,12 @@ OFMD :-
 
 1slot = 14 OFDMA 
 
+![flexibleslotdivision](https://github.com/user-attachments/assets/f46c7275-f851-4b97-a695-8b8f549bdb5b)
+
+
 12 Subcarriers = 1 Resource Block 
+
+
 
 ***more resource block given to a cell --- more is the data rate.*** 
 
