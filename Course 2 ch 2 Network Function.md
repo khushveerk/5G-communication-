@@ -40,6 +40,12 @@ OFMD :-
      5G use 256 QAM ( Qaudrature Amplitude) because it provides 8 bits per symbol transmission        rate.
 => and 64 and 16 QAM in did you deteriorat condition  as it probides 6 bits and 4 bits / symbol.
 
+
+![resoruceblcok](https://github.com/user-attachments/assets/51f2c910-2d4c-405e-8ae7-4d93f04b2f2b)
+
+![resourceelement](https://github.com/user-attachments/assets/0758cd3f-584c-422b-8cd3-9ae7b8bcdd52)
+
+
 ## Cloud RAN :-
  [ BASICALLY MODIFY ARCHITECTURE OF NEXT GENERATION .]
 
