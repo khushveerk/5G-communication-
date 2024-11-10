@@ -9,8 +9,11 @@ involves using multiple antennas at both transmeter and receiver .It allows for 
 2. multi user MIMO ---- 1 sender and many receivers.
 
 
-
-
 ## Beamforming :-
 
 •it is a technique that direct radio signal in specific direction instead of broadcasting them in all directions simply it focusee the signal towards a particular user or device, improving the quality and strength of connection.
+
+## How 3D Beamforming Works
+
+By changin Amplitude and Phase of RF signal in transmitter we can send the beam into any direction in the 3D plane
+
